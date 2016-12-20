@@ -3,6 +3,9 @@
 % Created 15/04/16 by Arthur Turrell
 % Based on an earlier code by Greg Thwaites
 
+% Hi both, just confirming that git is working by adding an inane comment.
+% I will upload this to the server.
+
 % In this code, variables per capita and absolute variables have the same
 % units as the number of households is made up of a continuum which is
 % normalised to one.
